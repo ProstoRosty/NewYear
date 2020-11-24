@@ -1,0 +1,19 @@
+body, html {
+    padding: 0;
+    height: 0;
+    width: 100%;
+    background: url(https://wallbox.ru/resize/1920x1080/wallpapers/main/201125/b7e1922039707c6b5196a583977abdca.jpg);
+    background-size: 105%;
+    position: fixed;
+    }
+.text {
+    max-width: 600px;
+    margin: 20px 300px 3px;
+    color: seashell;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.text2 {
+    text-align: center;
+    color: seashell;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
